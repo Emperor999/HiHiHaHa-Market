@@ -1,4 +1,6 @@
-package com.hihihaha.entity;
+package com.hihihaha.entity.user;
+
+import com.hihihaha.entity.account.Account;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

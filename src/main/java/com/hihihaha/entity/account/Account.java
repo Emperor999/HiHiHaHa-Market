@@ -1,4 +1,4 @@
-package com.hihihaha.entity;
+package com.hihihaha.entity.account;
 
 import jakarta.persistence.Id;
 import lombok.AllArgsConstructor;
