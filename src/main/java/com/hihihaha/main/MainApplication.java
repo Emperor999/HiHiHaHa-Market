@@ -1,3 +1,4 @@
+
 package com.hihihaha.main;
 
 import org.springframework.boot.SpringApplication;
