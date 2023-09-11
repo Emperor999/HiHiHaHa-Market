@@ -1,6 +1,7 @@
 version : '3.8'
 services:
   db:
+    container_name: hihihaha_market
     image: mysql:8.0.34
     ports:
       - 3306:3306
